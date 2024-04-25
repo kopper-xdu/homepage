@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xijun Wang"
-description              : "description"
+description              : "Undergraduate student at Xidian University. Focusing on computer vision and generative models."
 repository               : "kopper-xdu/homepage"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xijun Wang (王西军)"
   avatar           : "images/18.jpg"
-  bio              : "bio"
+  bio              : "Xidian University"
   location         : "Xi'an, China"
   employer         :
   pubmed           : 
