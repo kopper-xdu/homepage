@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xijun Wang (王西军)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/18.jpg"
   bio              : "bio"
-  location         : "Beijing, China"
+  location         : "Xi'an, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ppPYO_EAAAAJ"
-  email            : "xijunwang00@ipsum.com"
+  email            : "xijunwang00@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "kopper-xdu"
+  github           : "kopper-xdu"
   google_plus      :
   keybase          :
   instagram        :
