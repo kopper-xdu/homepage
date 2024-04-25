@@ -35,7 +35,7 @@ My research interest includes deep learning, computer vision and diffusion model
 
 [Adv-Diffusion: Imperceptible Adversarial Face Identity Attack via Latent Diffusion Model](https://arxiv.org/abs/2312.11285)
 
-Decheng Liu*, **Xijun Wang\***, Chunlei Peng†, Nannan Wang, Ruimin Hu, Xinbo Gao
+Decheng Liu*, **Xijun Wang\***, Chunlei Peng<sup>†</sup>, Nannan Wang, Ruimin Hu, Xinbo Gao
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ppPYO_EAAAAJ&citation_for_view=ppPYO_EAAAAJ:d1gkVwhDpl0C) | [**Code**](https://github.com/kopper-xdu/Adv-Diffusion)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
