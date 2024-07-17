@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xijun Wang"
-description              : "Undergraduate student at Xidian University. Focusing on computer vision and generative models."
+description              : "Undergraduate student at Xidian University. Focusing on Computer Vision and Generative Models."
 repository               : "kopper-xdu/homepage"
 google_scholar_stats_use_cdn : true
 
@@ -27,9 +27,9 @@ author:
   location         : "Xi'an, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ppPYO_EAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=ccQh444AAAAJ"
   email            : "xijunwang00@gmail.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # "https://www.researchgate.net/profile/Xijun-Wang-15"
   uri              :
   bitbucket        :
   codepen          :
