@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xijun Wang"
-description              : # "Undergraduate student at Xidian University. Focusing on Computer Vision and Generative Models."
+description              : "" # "Undergraduate student at Xidian University. Focusing on Computer Vision and Generative Models."
 repository               : "kopper-xdu/homepage"
 google_scholar_stats_use_cdn : true
 
