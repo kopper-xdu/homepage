@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xijun Wang (王西军)"
   avatar           : "images/18.jpg"
-  bio              : "Undergraduate student at Xidian University. Focusing on Computer Vision and Generative Models."
+  bio              : "Undergraduate student at Xidian University."
   location         : "Xi'an, China"
   employer         :
   pubmed           : 
